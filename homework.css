@@ -1,0 +1,56 @@
+html,
+body {
+    font-family: "Playfair Display", serif;
+    background-color: #f6faff;
+}
+
+h1 {
+
+    font-size: 1.802em;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.602em;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-color {
+
+    background-color: #3461fd;
+
+}
+
+.nav-link {
+
+    color: #d4d4d4;
+}
+
+.nav-link:hover {
+
+    color: white;
+}
+
+.nav-highlight {
+    color: white;
+}
+
+.navbar-home {
+    color: white;
+    font-weight: 700;
+    font-size: large;
+    margin: 1rem;
+}
+
+.navbar-home:focus,
+.navbar-home:hover {
+    color: darkgray;
+}
+
+.footer {
+    text-align: center;
+}
